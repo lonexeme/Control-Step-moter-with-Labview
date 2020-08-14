@@ -1,1 +1,7 @@
-
+在Matlab环境下编写了S型速度规划的代码，主要参考了Luigi Biagiotti，Claudio Melchiorri编写的《Trajectory Planning for Automatic Machines and Robots》这本书。
+代码部分定义如下：
+main_simple  --- 一段路程的S型速度规划
+main_complex --- 多段路程的S型速度规划
+calparas     --- 计算过程参数
+caloutdata   --- 输出结果参数
+PS：代码部分已经进行注释，可配合《Trajectory Planning for Automatic Machines and Robots》理解
