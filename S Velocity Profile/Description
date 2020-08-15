@@ -1,3 +1,4 @@
+软件版本：Matlab 2020a
 在Matlab环境下编写了S型速度规划的代码，主要参考了Luigi Biagiotti，Claudio Melchiorri编写的《Trajectory Planning for Automatic Machines and Robots》这本书。
 代码部分定义如下：
 main_simple  --- 一段路程的S型速度规划
