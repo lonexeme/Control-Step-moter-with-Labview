@@ -1,1 +1,5 @@
-
+软件版本：ANSYS AIM 18.0
+本Demo为四轴飞行器悬臂的模态分析
+模型参考来源：https://grabcad.com/library/qrm-quad-rotor-mini-1
+ANSYS AIM 平台介绍：https://www.ansys.com/zh-cn/about-ansys/advantage-magazine/volume-ix-issue-3-2015/introducing-ansys-aim
+PS:不需要掌握专业的有限元理论知识以及力学知识就可以方便快速的使用ANSYS AIM实现各种仿真验证，比ANSYS APDL以及ANSYS WorkBench要更加的方便快捷，但也会存在一定的局限性。
